@@ -1,4 +1,14 @@
-﻿<Properties StartupConfiguration="{04AC19A2-1EB2-4CCF-AA0E-B136570E9987}|">
-  <MonoDevelop.Ide.ItemProperties.Template__GTK__Sharp FirstBuild="True" />
+﻿<Properties StartupConfiguration="{04AC19A2-1EB2-4CCF-AA0E-B136570E9987}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="6" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Template__GTK__Sharp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
